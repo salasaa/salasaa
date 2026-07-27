@@ -23,20 +23,22 @@ I focus on building clean, thoughtful web applications end-to-end with modern to
 
 ## Current Focus
 
-| Area | What I am exploring |
-| --- | --- |
+| Area                    | What I am exploring                                                            |
+| ----------------------- | ------------------------------------------------------------------------------ |
 | **Full-Stack Web Apps** | Building end-to-end web applications with Next.js, TypeScript, and PostgreSQL. |
-| **API Development** | Designing and building REST APIs with Node.js, Hono, and Prisma. |
-| **Developer Workflow** | Using Docker, Bun, and modern tooling to ship reliable software faster. |
+| **API Development**     | Designing and building REST APIs with Node.js, Hono, and Prisma.               |
+| **Developer Workflow**  | Using Docker, Bun, and modern tooling to ship reliable software faster.        |
 
 ## Featured Work
 
-| Project | Focus | Why it matters |
-| --- | --- | --- |
-| [**salasa.id**](https://github.com/salasaa/salasa.id) | Personal portfolio website | Personal portfolio and website built with Next.js and TypeScript to showcase projects and professional background. [Live](https://salasa.id) |
-| [**cartify**](https://github.com/salasaa/cartify) | Grocery list web app | A grocery list application built with React and TypeScript for organizing daily shopping needs. |
-| [**cartify-api**](https://github.com/salasaa/cartify-api) | Groceries REST API | REST API service providing grocery and daily-needs information, built with TypeScript. |
-| [**linkup.salasa.id**](https://github.com/salasaa/linkup.salasa.id) | Simple contact book | A simple contact book web app built with HTML for managing personal contacts. |
+| Project                                                             | Focus                      | Why it matters                                                                                                                               |
+| ------------------------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**salasa.id**](https://github.com/salasaa/salasa.id)               | Personal portfolio website | Personal portfolio and website built with Next.js and TypeScript to showcase projects and professional background. [Live](https://salasa.id) |
+| [**cartify**](https://github.com/salasaa/cartify)                   | Grocery list web app       | A grocery list application built with React and TypeScript for organizing daily shopping needs.                                              |
+| [**cartify-api**](https://github.com/salasaa/cartify-api)           | Groceries REST API         | REST API service providing grocery and daily-needs information, built with TypeScript.                                                       |
+| [**linkup.salasa.id**](https://github.com/salasaa/linkup.salasa.id) | Simple contact book        | A simple contact book web app built with HTML for managing personal contacts.                                                                |
+| [**acaraga**](https://github.com/acaraga/acaraga)                   | Event management platform  | A web platform for managing and discovering events, built with Next.js and TypeScript.                                                       |
+| [**acaraga-api**](https://github.com/acaraga/acaraga-api)           | Event management API       | REST API service for handling event data and user authentication for Acaraga.com.                                                            |
 
 ## Research Direction
 
@@ -49,7 +51,9 @@ I focus on building reliable web systems end-to-end, from database design and AP
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+
 _Recent public activity will appear here after the workflow runs._
+
 <!-- AUTO:ACTIVITY:END -->
 
 ---

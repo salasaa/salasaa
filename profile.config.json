@@ -44,7 +44,7 @@
     {
       "name": "cartify",
       "url": "https://github.com/salasaa/cartify",
-      "homepage": "",
+      "homepage": "https://cartify.salasa.id",
       "focus": "Grocery list web app",
       "summary": "A grocery list application built with React and TypeScript for organizing daily shopping needs.",
       "heroLabel": "React app"
@@ -52,7 +52,7 @@
     {
       "name": "cartify-api",
       "url": "https://github.com/salasaa/cartify-api",
-      "homepage": "",
+      "homepage": "https://cartify-api.salasa.id",
       "focus": "Groceries REST API",
       "summary": "REST API service providing grocery and daily-needs information, built with TypeScript.",
       "heroLabel": "REST API"
@@ -60,22 +60,22 @@
     {
       "name": "linkup.salasa.id",
       "url": "https://github.com/salasaa/linkup.salasa.id",
-      "homepage": "",
+      "homepage": "https://linkup.salasa.id",
       "focus": "Simple contact book",
       "summary": "A simple contact book web app built with HTML for managing personal contacts.",
       "heroLabel": "Contact app"
     },
     {
-      "name": "acaraga.com",
-      "url": "https://acaraga.com",
+      "name": "acaraga",
+      "url": "https://github.com/acaraga/acaraga",
       "homepage": "https://acaraga.com",
       "focus": "Event management platform",
       "summary": "A web platform for managing and discovering events, built with Next.js and TypeScript.",
       "heroLabel": "Event platform"
     },
     {
-      "name": "api.acaraga.com",
-      "url": "https://api.acaraga.com",
+      "name": "acaraga-api",
+      "url": "https://github.com/acaraga/acaraga-api",
       "homepage": "https://api.acaraga.com",
       "focus": "Event management API",
       "summary": "REST API service for handling event data and user authentication for Acaraga.com.",
