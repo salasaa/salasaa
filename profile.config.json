@@ -1,69 +1,104 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Akhirudin Salasa",
+    "username": "salasaa",
+    "headline": "Full-Stack Web Developer",
+    "affiliation": "Independent Software Developer",
+    "location": "Semarang, Indonesia",
+    "status": "Available for new projects",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I'm a software developer with over two years of experience. I started out in Chemical Engineering, but found my true passion in web development.",
+      "I focus on building clean, thoughtful web applications end-to-end with modern tools like Next.js, TypeScript, and PostgreSQL, always learning along the way."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Full-Stack Development",
+    "direction": "Clean, modern web applications",
+    "themes": "Next.js / APIs / Databases / DX",
+    "narrative": "I focus on building reliable web systems end-to-end, from database design and APIs to polished, responsive interfaces, using tools like Next.js, TypeScript, and PostgreSQL."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Full-Stack Web Apps",
+      "description": "Building end-to-end web applications with Next.js, TypeScript, and PostgreSQL."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "API Development",
+      "description": "Designing and building REST APIs with Node.js, Hono, and Prisma."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Developer Workflow",
+      "description": "Using Docker, Bun, and modern tooling to ship reliable software faster."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
-      "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "name": "salasa.id",
+      "url": "https://github.com/salasaa/salasa.id",
+      "homepage": "https://salasa.id",
+      "focus": "Personal portfolio website",
+      "summary": "Personal portfolio and website built with Next.js and TypeScript to showcase projects and professional background.",
+      "heroLabel": "Personal site"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "cartify",
+      "url": "https://github.com/salasaa/cartify",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Grocery list web app",
+      "summary": "A grocery list application built with React and TypeScript for organizing daily shopping needs.",
+      "heroLabel": "React app"
+    },
+    {
+      "name": "cartify-api",
+      "url": "https://github.com/salasaa/cartify-api",
+      "homepage": "",
+      "focus": "Groceries REST API",
+      "summary": "REST API service providing grocery and daily-needs information, built with TypeScript.",
+      "heroLabel": "REST API"
+    },
+    {
+      "name": "linkup.salasa.id",
+      "url": "https://github.com/salasaa/linkup.salasa.id",
+      "homepage": "",
+      "focus": "Simple contact book",
+      "summary": "A simple contact book web app built with HTML for managing personal contacts.",
+      "heroLabel": "Contact app"
     }
   ],
   "techStack": [
-    "TypeScript",
     "Next.js",
-    "Python",
+    "TypeScript",
+    "React",
+    "Node.js",
     "PostgreSQL",
-    "Playwright"
+    "Prisma",
+    "Hono",
+    "Tailwind",
+    "Docker",
+    "Bun"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "salasaa",
+      "url": "https://github.com/salasaa",
       "logo": "github",
-      "color": "0B1220"
+      "color": "181717"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "akhirudin-salasa",
+      "url": "https://linkedin.com/in/akhirudin-salasa",
+      "logo": "linkedin",
+      "color": "0A66C2"
+    },
+    {
+      "label": "Telegram",
+      "value": "salasaakhr",
+      "url": "https://t.me/salasaakhr",
+      "logo": "telegram",
+      "color": "26A5E4"
     }
   ],
   "activity": {
@@ -73,5 +108,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building clean, thoughtful web applications and always learning."
 }
