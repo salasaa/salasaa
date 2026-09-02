@@ -51,7 +51,7 @@ I focus on building reliable web systems end-to-end, from database design and AP
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-_No recent public activity was found._
+- Sep 1, 2026: created a branch in [salasaa/internal-cup](https://github.com/salasaa/internal-cup).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
